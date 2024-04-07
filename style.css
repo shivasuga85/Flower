@@ -550,7 +550,6 @@ padding-top: 18px;
     .home .content h3{
         font-size: 8rem;
         margin-top: -30px;
-        margin-left:-40px ;
     }
    
     .home .content p{
@@ -759,9 +758,6 @@ padding-top: 18px;
         }
     }
 @media(max-width:991px){
-    .home{
-        margin-left: 50px;
-    }
     .icons-container {
         margin-top: 20px;
     }
