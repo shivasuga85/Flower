@@ -541,22 +541,23 @@ padding-top: 18px;
 /* --------------------------media quary------------------------------ */
 @media(max-width:450px){
     .home{
-         margin-top: 20px;
+         margin-top: 40px;
         display: flex;
         flex-wrap: wrap;
         flex-direction: column-reverse;
-        margin-left: 0;
+        /* margin-left: 0; */
         margin-top: -20px;
     }
     .home .content h3{
-        font-size: 6.5rem;
+        font-size: 7rem;
         margin-top: -30px;
+        margin-left:-40px ;
     }
    
     .home .content p{
         font-size: 2rem;
         line-height: 2;
-        width: 90%;
+        width: 100%;
     }
     .home-img img{
      height: 500px;
@@ -567,7 +568,7 @@ padding-top: 18px;
         display: flex;
          align-items: center;
         flex-direction: column; 
-        margin-left: 10px;
+        margin-left: 5px;
     
     }
     .about .heading{
@@ -575,17 +576,17 @@ padding-top: 18px;
     }
    
     .about .row .video-container video{
-             width: 20%;
-             height: 20%;
+             width: 40%;
+             height: 40%;
     }
     .about .row .content h3{
-        font-size: 5rem;
+        font-size: 6rem;
         margin-top:10px;
     } 
     .about .row .content p{
-        font-size: 2rem;
+        font-size: 3rem;
         line-height: 2;
-        width: 90%;
+        width: 100%;
     } 
     .home .content span{
         font-size: 25px;
@@ -596,18 +597,18 @@ padding-top: 18px;
         flex-wrap: wrap;
         flex-direction: column;
         width: 90%;
-        margin-left: 5px;
+        /* margin-left: 5px; */
         gap: 1.5rem;
     }
     .products .box-container{
         display: flex;
         flex-wrap: wrap;
         gap: 1.5rem;
-        width: 90%;
+        width: 85%;
         margin-left: 10px;
     }
     .products .box-container .box{
-        height: 120px;
+        height: 100px;
         width: 100px;
     }
     .products .heading{
@@ -739,7 +740,7 @@ padding-top: 18px;
             font-size: 5rem;
             }
        textarea{
-        width: 100%;
+        width: 95%;
         margin-top: 10px;
        }
          .contect .row{
