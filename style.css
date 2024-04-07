@@ -712,7 +712,7 @@ padding-top: 18px;
         flex-wrap: wrap;
         gap: 1.5rem;
         width: 94%;
-        margin-left: 20px;
+        margin-left:10px;
     }
     .products .box-container .box{
         height: 200px;
