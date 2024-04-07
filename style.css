@@ -739,6 +739,7 @@ padding-top: 18px;
        textarea{
         width: 100%;
         margin-top: 10px;
+        margin-left: 5px;
        }
          .contect .row{
             display: flex;
