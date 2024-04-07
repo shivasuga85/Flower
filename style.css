@@ -545,7 +545,6 @@ padding-top: 18px;
         display: flex;
         flex-wrap: wrap;
         flex-direction: column-reverse;
-        margin-top: 20px;
     }
     .home .content h3{
         font-size: 7rem;
